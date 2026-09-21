@@ -37,4 +37,6 @@ boolean isWeekend(String day) {
             break;
     }
     return weekend;
+
+    ITS NEVER WEEKEND !!!
 }

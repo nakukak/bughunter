@@ -4,14 +4,7 @@ void main() {
     int age = 25;
 
     if (age >= 18) {
-        IO.println("Can vote");
+        IO.println("Can vote "+"and "+"Is an adult" +"Can drive\"" );
     }
 
-    if (age >= 18) {
-        IO.println("Can drive");
-    }
-
-    if (age >= 18) {
-        IO.println("Is an adult");
-    }
 }
